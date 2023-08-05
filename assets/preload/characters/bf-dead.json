@@ -1,44 +1,100 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				37,
-				11
+				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "firstDeath",
-			"indices": [],
-			"name": "BF dies"
+			"fps": 24,
+			"name": "Toy-Bf First-Death",
+			"indices": [
+				0,
+				0,
+				1,
+				1,
+				2,
+				2,
+				3,
+				3,
+				4,
+				4,
+				5,
+				5,
+				6,
+				6,
+				7,
+				7,
+				8,
+				8,
+				9,
+				9,
+				10,
+				10,
+				11,
+				11,
+				12,
+				12,
+				13,
+				13,
+				14,
+				14,
+				15,
+				15,
+				16,
+				16,
+				16,
+				16,
+				18,
+				18,
+				19,
+				19
+			]
 		},
 		{
-			"offsets": [
-				37,
-				5
-			],
 			"loop": true,
-			"fps": 24,
-			"anim": "deathLoop",
-			"indices": [],
-			"name": "BF Dead Loop"
-		},
-		{
 			"offsets": [
 				37,
-				69
+				1
 			],
-			"loop": false,
+			"anim": "deathLoop",
 			"fps": 24,
+			"name": "Toy-Bf Death-Loop",
+			"indices": [
+				0,
+				0,
+				0,
+				1,
+				1,
+				1,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				2
+			],
 			"anim": "deathConfirm",
-			"indices": [],
-			"name": "BF Dead confirm"
+			"fps": 24,
+			"name": "Toy-Bf Death-Confirm",
+			"indices": [
+				0,
+				0,
+				1,
+				1,
+				2,
+				2
+			]
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BOYFRIEND_DEAD",
+	"image": "characters/BOYFRIEND",
 	"position": [
 		0,
-		350
+		-450
 	],
 	"healthicon": "bf",
 	"flip_x": true,
