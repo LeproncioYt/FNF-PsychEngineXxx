@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Toy-Bf.png">
+<SubTexture name="Toy-Bf Idle0000" x="2314" y="0" width="345" height="424" frameX="-131" frameY="-148" frameWidth="640" frameHeight="640" />
+<SubTexture name="Toy-Bf Idle0001" x="1824" y="1535" width="344" height="426" frameX="-131" frameY="-147" frameWidth="640" frameHeight="640" />
+<SubTexture name="Toy-Bf Idle0002" x="675" y="1535" width="344" height="429" frameX="-133" frameY="-144" frameWidth="640" frameHeight="640" />
+<SubTexture name="Toy-Bf Idle0003" x="0" y="1535" width="347" height="431" frameX="-133" frameY="-142" frameWidth="640" frameHeight="640" />
+<SubTexture name="Toy-Bf Idle0004" x="1965" y="0" width="348" height="431" frameX="-133" frameY="-141" frameWidth="640" frameHeight="640" />
+<SubTexture name="Toy-Bf LEFT0000" x="1965" y="431" width="319" height="431" frameX="-113" frameY="-142" frameWidth="640" frameHeight="640" />
+<SubTexture name="Toy-Bf LEFT0001" x="1965" y="863" width="309" height="431" frameX="-123" frameY="-142" frameWidth="640" frameHeight="640" />
+<SubTexture name="Toy-Bf Down0000" x="2314" y="808" width="307" height="381" frameX="-145" frameY="-192" frameWidth="640" frameHeight="640" />
+<SubTexture name="Toy-Bf Down0001" x="2314" y="424" width="307" height="383" frameX="-142" frameY="-190" frameWidth="640" frameHeight="640" />
+<SubTexture name="Toy-Bf Up0000" x="1466" y="487" width="334" height="445" frameX="-164" frameY="-130" frameWidth="640" frameHeight="640" />
+<SubTexture name="Toy-Bf Up0001" x="511" y="1051" width="333" height="439" frameX="-163" frameY="-135" frameWidth="640" frameHeight="640" />
+<SubTexture name="Toy-Bf Right0000" x="347" y="1535" width="327" height="429" frameX="-184" frameY="-143" frameWidth="640" frameHeight="640" />
+<SubTexture name="Toy-Bf Right0001" x="1492" y="1535" width="332" height="426" frameX="-176" frameY="-146" frameWidth="640" frameHeight="640" />
+<SubTexture name="Toy-Bf Down-Misses0000" x="0" y="1966" width="382" height="388" frameX="-137" frameY="-185" frameWidth="640" frameHeight="640" />
+<SubTexture name="Toy-Bf Down-Misses0001" x="844" y="1051" width="520" height="437" frameX="-62" frameY="-176" frameWidth="640" frameHeight="640" />
+<SubTexture name="Toy-Bf Down-Misses0002" x="1364" y="1051" width="520" height="437" frameX="-62" frameY="-176" frameWidth="640" frameHeight="640" />
+<SubTexture name="Toy-Bf Left-Misses0000" x="0" y="1051" width="511" height="484" frameX="-62" frameY="-86" frameWidth="640" frameHeight="640" />
+<SubTexture name="Toy-Bf Left-Misses0001" x="852" y="532" width="511" height="487" frameX="-62" frameY="-86" frameWidth="640" frameHeight="640" />
+<SubTexture name="Toy-Bf Left-Misses0002" x="1466" y="0" width="499" height="487" frameX="-62" frameY="-86" frameWidth="640" frameHeight="640" />
+<SubTexture name="Toy-Bf Right-Misses0000" x="1019" y="1535" width="473" height="428" frameX="-98" frameY="-149" frameWidth="640" frameHeight="640" />
+<SubTexture name="Toy-Bf Right-Misses0001" x="990" y="0" width="476" height="518" frameX="-106" frameY="-62" frameWidth="640" frameHeight="640" />
+<SubTexture name="Toy-Bf Right-Misses0002" x="0" y="532" width="476" height="518" frameX="-106" frameY="-62" frameWidth="640" frameHeight="640" />
+<SubTexture name="Toy-Bf Up-Misses0000" x="476" y="532" width="375" height="491" frameX="-166" frameY="-83" frameWidth="640" frameHeight="640" />
+<SubTexture name="Toy-Bf Up-Misses0001" x="0" y="0" width="495" height="532" frameX="-87" frameY="-81" frameWidth="640" frameHeight="640" />
+<SubTexture name="Toy-Bf Up-Misses0002" x="495" y="0" width="495" height="532" frameX="-87" frameY="-81" frameWidth="640" frameHeight="640" />
+</TextureAtlas>

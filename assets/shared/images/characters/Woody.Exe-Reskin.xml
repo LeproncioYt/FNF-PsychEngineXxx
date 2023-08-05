@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Woody.Exe-Reskin.png">
+<SubTexture name="Woody.Exe-Reskin Idle0000" x="633" y="1006" width="211" height="471" frameX="-217" frameY="-106" frameWidth="640" frameHeight="640" />
+<SubTexture name="Woody.Exe-Reskin Idle0001" x="418" y="1006" width="214" height="472" frameX="-216" frameY="-105" frameWidth="640" frameHeight="640" />
+<SubTexture name="Woody.Exe-Reskin Idle0002" x="207" y="1006" width="211" height="474" frameX="-216" frameY="-103" frameWidth="640" frameHeight="640" />
+<SubTexture name="Woody.Exe-Reskin Idle0003" x="0" y="1006" width="207" height="475" frameX="-216" frameY="-102" frameWidth="640" frameHeight="640" />
+<SubTexture name="Woody.Exe-Reskin Idle0004" x="1428" y="0" width="205" height="476" frameX="-216" frameY="-102" frameWidth="640" frameHeight="640" />
+<SubTexture name="Woody.Exe-Reskin Idle0005" x="1223" y="0" width="204" height="476" frameX="-216" frameY="-101" frameWidth="640" frameHeight="640" />
+<SubTexture name="Woody.Exe-Reskin Down0000" x="1633" y="803" width="299" height="361" frameX="-157" frameY="-217" frameWidth="640" frameHeight="640" />
+<SubTexture name="Woody.Exe-Reskin Down0001" x="1633" y="438" width="289" height="365" frameX="-160" frameY="-213" frameWidth="640" frameHeight="640" />
+<SubTexture name="Woody.Exe-Reskin Down0002" x="844" y="1006" width="285" height="452" frameX="-162" frameY="-126" frameWidth="640" frameHeight="640" />
+<SubTexture name="Woody.Exe-Reskin Down0003" x="1129" y="1006" width="287" height="452" frameX="-161" frameY="-126" frameWidth="640" frameHeight="640" />
+<SubTexture name="Woody.Exe-Reskin Right0000" x="1633" y="0" width="305" height="438" frameX="-213" frameY="-139" frameWidth="640" frameHeight="640" />
+<SubTexture name="Woody.Exe-Reskin Right0001" x="0" y="1481" width="309" height="437" frameX="-204" frameY="-139" frameWidth="640" frameHeight="640" />
+<SubTexture name="Woody.Exe-Reskin Right0002" x="309" y="1481" width="312" height="437" frameX="-200" frameY="-139" frameWidth="640" frameHeight="640" />
+<SubTexture name="Woody.Exe-Reskin Right0003" x="621" y="1481" width="312" height="436" frameX="-201" frameY="-140" frameWidth="640" frameHeight="640" />
+<SubTexture name="Woody.Exe-Reskin Up0000" x="0" y="0" width="303" height="525" frameX="-173" frameY="-52" frameWidth="640" frameHeight="640" />
+<SubTexture name="Woody.Exe-Reskin Up0001" x="303" y="0" width="307" height="517" frameX="-173" frameY="-59" frameWidth="640" frameHeight="640" />
+<SubTexture name="Woody.Exe-Reskin Up0002" x="917" y="0" width="306" height="513" frameX="-176" frameY="-63" frameWidth="640" frameHeight="640" />
+<SubTexture name="Woody.Exe-Reskin Up0003" x="610" y="0" width="307" height="513" frameX="-175" frameY="-63" frameWidth="640" frameHeight="640" />
+<SubTexture name="Woody.Exe-Reskin Left0000" x="842" y="525" width="299" height="479" frameX="-109" frameY="-99" frameWidth="640" frameHeight="640" />
+<SubTexture name="Woody.Exe-Reskin Left0001" x="278" y="525" width="283" height="480" frameX="-119" frameY="-98" frameWidth="640" frameHeight="640" />
+<SubTexture name="Woody.Exe-Reskin Left0002" x="0" y="525" width="278" height="481" frameX="-125" frameY="-98" frameWidth="640" frameHeight="640" />
+<SubTexture name="Woody.Exe-Reskin Left0003" x="561" y="525" width="280" height="480" frameX="-124" frameY="-98" frameWidth="640" frameHeight="640" />
+</TextureAtlas>

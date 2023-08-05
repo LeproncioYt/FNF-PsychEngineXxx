@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Woody.Exe.png">
+<SubTexture name="Woody.Exe Idle0000" x="187" y="1045" width="196" height="461" frameX="-247" frameY="-96" frameWidth="640" frameHeight="640" />
+<SubTexture name="Woody.Exe Idle0001" x="0" y="1045" width="187" height="464" frameX="-249" frameY="-93" frameWidth="640" frameHeight="640" />
+<SubTexture name="Woody.Exe Idle0002" x="1400" y="0" width="186" height="468" frameX="-247" frameY="-89" frameWidth="640" frameHeight="640" />
+<SubTexture name="Woody.Exe Idle0003" x="740" y="532" width="186" height="469" frameX="-245" frameY="-88" frameWidth="640" frameHeight="640" />
+<SubTexture name="Woody.Exe Idle0004" x="1055" y="500" width="185" height="470" frameX="-243" frameY="-87" frameWidth="640" frameHeight="640" />
+<SubTexture name="Woody.Exe Up0000" x="0" y="0" width="365" height="532" frameX="-149" frameY="-26" frameWidth="640" frameHeight="640" />
+<SubTexture name="Woody.Exe Up0001" x="365" y="0" width="352" height="524" frameX="-159" frameY="-34" frameWidth="640" frameHeight="640" />
+<SubTexture name="Woody.Exe Up0002" x="717" y="0" width="338" height="519" frameX="-164" frameY="-39" frameWidth="640" frameHeight="640" />
+<SubTexture name="Woody.Exe Up0003" x="0" y="532" width="331" height="512" frameX="-168" frameY="-46" frameWidth="640" frameHeight="640" />
+<SubTexture name="Woody.Exe Up0004" x="331" y="532" width="408" height="505" frameX="-100" frameY="-52" frameWidth="640" frameHeight="640" />
+<SubTexture name="Woody.Exe Down0000" x="987" y="1932" width="504" height="310" frameX="-121" frameY="-246" frameWidth="640" frameHeight="640" />
+<SubTexture name="Woody.Exe Down0001" x="490" y="1932" width="496" height="313" frameX="-130" frameY="-244" frameWidth="640" frameHeight="640" />
+<SubTexture name="Woody.Exe Down0002" x="0" y="1932" width="490" height="316" frameX="-137" frameY="-241" frameWidth="640" frameHeight="640" />
+<SubTexture name="Woody.Exe Down0003" x="1993" y="0" width="485" height="319" frameX="-141" frameY="-237" frameWidth="640" frameHeight="640" />
+<SubTexture name="Woody.Exe Down0004" x="1128" y="1509" width="479" height="322" frameX="-145" frameY="-234" frameWidth="640" frameHeight="640" />
+<SubTexture name="Woody.Exe Left0000" x="383" y="1045" width="427" height="427" frameX="-69" frameY="-136" frameWidth="640" frameHeight="640" />
+<SubTexture name="Woody.Exe Left0001" x="810" y="1045" width="419" height="426" frameX="-76" frameY="-138" frameWidth="640" frameHeight="640" />
+<SubTexture name="Woody.Exe Left0002" x="1586" y="0" width="407" height="424" frameX="-88" frameY="-139" frameWidth="640" frameHeight="640" />
+<SubTexture name="Woody.Exe Left0003" x="363" y="1509" width="388" height="422" frameX="-107" frameY="-142" frameWidth="640" frameHeight="640" />
+<SubTexture name="Woody.Exe Left0004" x="752" y="1509" width="376" height="420" frameX="-119" frameY="-143" frameWidth="640" frameHeight="640" />
+<SubTexture name="Woody.Exe Right0000" x="1586" y="848" width="371" height="423" frameX="-190" frameY="-138" frameWidth="640" frameHeight="640" />
+<SubTexture name="Woody.Exe Right0001" x="0" y="1509" width="363" height="423" frameX="-190" frameY="-138" frameWidth="640" frameHeight="640" />
+<SubTexture name="Woody.Exe Right0002" x="1586" y="424" width="357" height="424" frameX="-190" frameY="-137" frameWidth="640" frameHeight="640" />
+<SubTexture name="Woody.Exe Right0003" x="1229" y="1045" width="352" height="425" frameX="-190" frameY="-136" frameWidth="640" frameHeight="640" />
+<SubTexture name="Woody.Exe Right0004" x="1055" y="0" width="344" height="500" frameX="-191" frameY="-61" frameWidth="640" frameHeight="640" />
+</TextureAtlas>
