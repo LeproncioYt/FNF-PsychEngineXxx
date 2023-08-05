@@ -1,0 +1,3 @@
+mamada hecha por Plastic Fork
+value 1: texto
+value 2: cantidad de tiempo para desaparecer
