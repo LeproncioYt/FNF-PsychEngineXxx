@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Potatoe-Head.png">
+<SubTexture name="Potatoe-Head Papa-Dance0000" x="0" y="0" width="480" height="422" frameX="-401" frameY="-480" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Potatoe-Head Papa-Dance0001" x="480" y="0" width="468" height="428" frameX="-407" frameY="-474" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Potatoe-Head Papa-Dance0002" x="0" y="428" width="461" height="437" frameX="-411" frameY="-465" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Potatoe-Head Papa-Dance0003" x="461" y="428" width="456" height="440" frameX="-414" frameY="-462" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Potatoe-Head Papa-Dance0004" x="0" y="868" width="448" height="444" frameX="-418" frameY="-458" frameWidth="1280" frameHeight="1280" />
+</TextureAtlas>
