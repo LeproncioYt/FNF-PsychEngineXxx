@@ -1,7 +1,7 @@
 {
 	"song": {
 		"player1": "toy_bf",
-		"player2": "Faker",
+		"player2": "faker",
 		"notes": [
 			{
 				"typeOfSection": 0,
@@ -8361,7 +8361,7 @@
 					[
 						"Change Character",
 						"dad",
-						"Woody.Exe-Reskin"
+						"woody.exe-reskin"
 					]
 				]
 			],
